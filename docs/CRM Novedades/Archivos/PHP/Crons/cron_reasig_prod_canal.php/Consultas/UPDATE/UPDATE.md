@@ -1,0 +1,5 @@
+| ID<br>                                                                                      | Tipo   | Archivo Origen                 | Modulo Funcional                  | Base de Datos    | Tablas Afectadas | Joins | Objetivo                                             | Impacto   | Observacion |
+| ------------------------------------------------------------------------------------------- | ------ | ------------------------------ | --------------------------------- | ---------------- | ---------------- | ----- | ---------------------------------------------------- | --------- | ----------- |
+| [[Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_prod_canal.php/Consultas/UPDATE/Q001\|Q001]] | UPDATE | [[cron_reasig_prod_canal.php]] | Asignación automática de vendedor | gyssrl_novedades | sw_operaciones   | -     | Actualizar vendedor a 207 en operaciones encontradas | Escritura |             |
+
+[[Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_prod_canal.php/Consultas/Consultas|Consultas]]

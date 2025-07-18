@@ -1,0 +1,3 @@
+Este cron se ejecuta para detectar operaciones con estado "Pendiente de Cierre" (estado 25) que no han tenido gestión en los últimos 5 días (`fechauc`). Si encuentra operaciones en esta condición, las da de baja automáticamente, actualizando el estado a 1 y asignando como motivo de baja el código 39. También registra la fecha actual como nueva fecha de última gestión (`fechauc`) y envía un correo con el detalle de las operaciones afectadas.
+
+[[Crons]]

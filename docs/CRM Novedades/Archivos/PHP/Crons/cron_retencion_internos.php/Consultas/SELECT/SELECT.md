@@ -1,0 +1,1 @@
+[[Docs/CRM Novedades/Archivos/PHP/Crons/cron_retencion_internos.php/Consultas/Consultas|Consultas]]

@@ -1,0 +1,3 @@
+Este cron se encarga de reasignar automáticamente leads antiguos del producto AMO (con ID 51) que no hayan sido procesados (estado distinto de 3) y cuya fecha coincide con una específica o tiene más de tres meses de antigüedad. Extrae los datos principales de cada lead: nombre, teléfono, email, vendedor y DNI, los normaliza y genera una nueva operación en la base de datos con estado y canal actualizados. Si está activado, también puede cambiar el vendedor asignado. Al finalizar, envía por correo electrónico un resumen con el detalle de las asignaciones realizadas.
+
+[[Crons]]

@@ -1,0 +1,8 @@
+
+| ID<br>                                                                                       | Tipo   | Archivo Origen                                                                                                    | Modulo Funcional | Base de Datos    | Tablas Afectadas | Joins | Objetivo                                                          | Impacto | Observacion |
+| -------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ----------------------------------------------------------------- | ------- | ----------- |
+| [[Docs/CRM Novedades/Archivos/PHP/Crons/cron_cerrar_pend_cierre.php/Consultas/SELECT/Q001\|Q001]] | SELECT | [[Docs/CRM Novedades/Archivos/PHP/Crons/cron_cerrar_pend_cierre.php/Consultas/Consultas\|cron_cerrar_pend_cierre.php]] | Baja automática  | gyssrl_novedades | sw_operaciones   | -     | Buscar operaciones en estado 25 (Pend. de cierre) con UG > 5 días | Lectura |             |
+|                                                                                              |        |                                                                                                                   |                  |                  |                  |       |                                                                   |         |             |
+
+
+[[Docs/CRM Novedades/Archivos/PHP/Crons/cron_cerrar_pend_cierre.php/Consultas/Consultas|Consultas]]

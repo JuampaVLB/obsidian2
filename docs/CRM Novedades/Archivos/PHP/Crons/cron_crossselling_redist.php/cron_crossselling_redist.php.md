@@ -1,0 +1,3 @@
+Este script reasigna operaciones antiguas, emitidas por vendedores dados de baja, a vendedores activos del canal de autogestión. Calcula cuántas operaciones puede recibir cada vendedor según su cupo mensual y los días hábiles del mes. Luego distribuye esas operaciones de forma equilibrada, insertando nuevas entradas en la tabla de operaciones, registrando observaciones y marcando las originales como reasignadas para evitar duplicaciones.
+
+[[Crons]]

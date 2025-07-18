@@ -1,0 +1,3 @@
+El archivo `cron_bajas_cross.php` identifica automáticamente operaciones con más de un mes de antigüedad que se encuentran en estado pendiente de gestión (`estado = 35`) para dos canales específicos: **Cross30 (canal 29)** y **Cross Autogestión (canal 61)**. Cuando encuentra estas operaciones, las actualiza en la base de datos cambiando su estado a `1` (baja), asignándoles un motivo de baja (`motivobaja = 39`) y registrando la fecha y hora de actualización. Además, construye un resumen en HTML con los resultados, pensado para ser enviado por correo.
+
+[[Crons]]

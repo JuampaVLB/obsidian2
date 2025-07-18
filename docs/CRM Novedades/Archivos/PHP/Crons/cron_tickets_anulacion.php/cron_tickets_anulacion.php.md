@@ -1,0 +1,3 @@
+Este script en PHP se conecta a la base de datos `gyssrl_novedades` y selecciona hasta 30 tickets que estén marcados como rechazados por anulación y aún no se les haya enviado el mail correspondiente. Para cada uno, obtiene los datos del cliente (nombre y email). Si el cliente no tiene email, actualiza el estado del ticket y deja registrada una observación. Si tiene email, arma el contenido del mensaje según la póliza y medio de pago, y lo envía usando PHPMailer. Luego, actualiza el estado del ticket a “enviado” y registra una observación del envío. Si hay errores en cualquier paso, se envían notificaciones por correo al equipo correspondiente.
+
+[[Crons]]

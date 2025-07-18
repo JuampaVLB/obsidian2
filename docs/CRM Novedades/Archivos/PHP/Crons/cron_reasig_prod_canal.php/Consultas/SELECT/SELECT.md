@@ -1,0 +1,6 @@
+
+| ID<br>                                                                                      | Tipo   | Archivo Origen                 | Modulo Funcional                  | Base de Datos    | Tablas Afectadas | Joins | Objetivo                                                                         | Impacto | Observacion |
+| ------------------------------------------------------------------------------------------- | ------ | ------------------------------ | --------------------------------- | ---------------- | ---------------- | ----- | -------------------------------------------------------------------------------- | ------- | ----------- |
+| [[Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_prod_canal.php/Consultas/SELECT/Q001\|Q001]] | SELECT | [[cron_reasig_prod_canal.php]] | Asignación automática de vendedor | gyssrl_novedades | sw_operaciones   | -     | Obtener operaciones en canal 117 sin vendedor 207 asignado y con estados activos | Lectura |             |
+
+[[Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_prod_canal.php/Consultas/Consultas|Consultas]]

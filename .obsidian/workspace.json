@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "86f7bde82fc537f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dda46dad564f3e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f004259b7165017",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6bb533f05727795f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46d1b5c000d8cb79",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7345863357173033,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bdccdc6e989b480",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee412380064df575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f40a9c594dbab5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5aed57e8a0ba54cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "97d7ef18e15b9e3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "7109d48c1ccaebc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d35e5d91add5de0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6add88e0d72374e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CRM Novedades/Archivos/PHP/Crons/cron_crossselling_autogestion.php/Consultas/UPDATE/UPDATE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for UPDATE"
+            }
+          },
+          {
+            "id": "438f448f5f985f74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CRM Novedades/Archivos/PHP/Crons/cron_crossselling_autogestion.php/Consultas/UPDATE/UPDATE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from UPDATE"
+            }
+          },
+          {
+            "id": "634cf22e283df73c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "55899de1d290e2a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CRM Novedades/Archivos/PHP/Crons/cron_crossselling_autogestion.php/Consultas/UPDATE/UPDATE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of UPDATE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6f40a9c594dbab5f",
+  "lastOpenFiles": [
+    "Docs/CRM Novedades/CRM Novedades.md",
+    "Docs/index.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_crossselling_autogestion.php/cron_crossselling_autogestion.php.md",
+    "database.md",
+    "Docs",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/Crons.md",
+    "Docs/CRM Novedades/Archivos/PHP/PHP.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/Archivos Normales.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/ranking.php/ranking.php.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_amo_cuarto_mes.php/cron_amo_cuarto_mes.php.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_baja_gestiones_caducadas.php/Consultas/Consultas.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_baja_gestiones_caducadas.php/Consultas/SELECT/SELECT.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/SELECT.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/SELECT.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/Q001.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/Q002.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/Q004.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q071.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_baja_gestiones_caducadas.php/cron_baja_gestiones_caducadas.php.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/login.php/Consultas/SELECT/SELECT.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/login.php/Consultas/SELECT/Q001.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/login.php/login.php.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/sendFieldsMl.php/Consultas/SELECT/SELECT.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q010.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q001.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q072.md",
+    "CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q074.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_tickets_cola_envio.php/Consultas/UPDATE",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_tickets_anulacion.php/Consultas/INSERT",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/UPDATE",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_crossselling_redist.php/Consultas/UPDATE",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_crossselling_redist_ant.php/Consultas/UPDATE",
+    "Docs/CRM Novedades/Archivos/Javascript/index.js/Consultas",
+    "Docs/CRM Novedades/Archivos/Javascript/index.js",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_retencion_externos.php/Consultas/SELECT",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_retencion_externos.php/Consultas/INSERT"
+  ]
+}

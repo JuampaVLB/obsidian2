@@ -1,0 +1,5 @@
+| ID                                                                                                  | Tipo   | Archivo Origen            | Modulo Funcional                  | Base de Datos    | Tablas Afectadas | Joins | Objetivo                                                   | Impacto   | Observacion |
+| --------------------------------------------------------------------------------------------------- | ------ | ------------------------- | --------------------------------- | ---------------- | ---------------- | ----- | ---------------------------------------------------------- | --------- | ----------- |
+| [[Docs/CRM Novedades/Archivos/PHP/Archivos Normales/autogestion_redist.php/Consultas/UPDATE/Q001\|Q001]] | UPDATE | asignador_operaciones.php | Autogestión / Baja de OP anterior | gyssrl_novedades | sw_operaciones   | -     | Marcar como baja la operación anterior que fue reemplazada | Escritura |             |
+
+[[Docs/CRM Novedades/Archivos/PHP/Archivos Normales/autogestion_redist.php/Consultas/Consultas|Consultas]]

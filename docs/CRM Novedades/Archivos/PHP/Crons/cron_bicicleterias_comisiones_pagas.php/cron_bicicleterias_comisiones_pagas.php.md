@@ -1,0 +1,3 @@
+Este cron calcula qué bicicleterías deben cobrar comisión según su rendimiento del mes anterior. Para cada bicicletería con modelo de cobro tipo "escala", obtiene cuántas operaciones se realizaron y cuántas se concretaron como contrataciones. Si hicieron 5 o menos operaciones, cobran comisión directamente. Si superaron las 5, sólo cobran si alcanzaron al menos un 35% de concreción. Las operaciones que cumplen estas condiciones son insertadas en la tabla `sw_bicisComisionesPagas`, y se genera un resumen que puede enviarse por correo.
+
+[[Crons]]
